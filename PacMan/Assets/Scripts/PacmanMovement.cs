@@ -20,4 +20,6 @@ public class PacmanMovement : MonoBehaviour {
         RaycastHit2D hit = Physics2D.Linecast(pacPos + dir, pacPos);
         return (hit.collider == GetComponent<Collider2D>());
     }
+
+    
 }

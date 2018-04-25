@@ -5,6 +5,244 @@ licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: pacman sprite sheet_0
+    21300002: pacman sprite sheet_1
+    21300004: pacman sprite sheet_2
+    21300006: pacman sprite sheet_3
+    21300008: pacman sprite sheet_4
+    21300010: pacman sprite sheet_5
+    21300012: pacman sprite sheet_6
+    21300014: pacman sprite sheet_7
+    21300016: pacman sprite sheet_8
+    21300018: pacman sprite sheet_9
+    21300020: pacman sprite sheet_10
+    21300022: pacman sprite sheet_11
+    21300024: pacman sprite sheet_12
+    21300026: pacman sprite sheet_13
+    21300028: pacman sprite sheet_14
+    21300030: pacman sprite sheet_15
+    21300032: pacman sprite sheet_16
+    21300034: pacman sprite sheet_17
+    21300036: pacman sprite sheet_18
+    21300038: pacman sprite sheet_19
+    21300040: pacman sprite sheet_20
+    21300042: pacman sprite sheet_21
+    21300044: pacman sprite sheet_22
+    21300046: pacman sprite sheet_23
+    21300048: pacman sprite sheet_24
+    21300050: pacman sprite sheet_25
+    21300052: pacman sprite sheet_26
+    21300054: pacman sprite sheet_27
+    21300056: pacman sprite sheet_28
+    21300058: pacman sprite sheet_29
+    21300060: pacman sprite sheet_30
+    21300062: pacman sprite sheet_31
+    21300064: pacman sprite sheet_32
+    21300066: pacman sprite sheet_33
+    21300068: pacman sprite sheet_34
+    21300070: pacman sprite sheet_35
+    21300072: pacman sprite sheet_36
+    21300074: pacman sprite sheet_37
+    21300076: pacman sprite sheet_38
+    21300078: pacman sprite sheet_39
+    21300080: pacman sprite sheet_40
+    21300082: pacman sprite sheet_41
+    21300084: pacman sprite sheet_42
+    21300086: pacman sprite sheet_43
+    21300088: pacman sprite sheet_44
+    21300090: pacman sprite sheet_45
+    21300092: pacman sprite sheet_46
+    21300094: pacman sprite sheet_47
+    21300096: pacman sprite sheet_48
+    21300098: pacman sprite sheet_49
+    21300100: pacman sprite sheet_50
+    21300102: pacman sprite sheet_51
+    21300104: pacman sprite sheet_52
+    21300106: pacman sprite sheet_53
+    21300108: pacman sprite sheet_54
+    21300110: pacman sprite sheet_55
+    21300112: pacman sprite sheet_56
+    21300114: pacman sprite sheet_57
+    21300116: pacman sprite sheet_58
+    21300118: pacman sprite sheet_59
+    21300120: pacman sprite sheet_60
+    21300122: pacman sprite sheet_61
+    21300124: pacman sprite sheet_62
+    21300126: pacman sprite sheet_63
+    21300128: pacman sprite sheet_64
+    21300130: pacman sprite sheet_65
+    21300132: pacman sprite sheet_66
+    21300134: pacman sprite sheet_67
+    21300136: pacman sprite sheet_68
+    21300138: pacman sprite sheet_69
+    21300140: pacman sprite sheet_70
+    21300142: pacman sprite sheet_71
+    21300144: pacman sprite sheet_72
+    21300146: pacman sprite sheet_73
+    21300148: pacman sprite sheet_74
+    21300150: pacman sprite sheet_75
+    21300152: pacman sprite sheet_76
+    21300154: pacman sprite sheet_77
+    21300156: pacman sprite sheet_78
+    21300158: pacman sprite sheet_79
+    21300160: pacman sprite sheet_80
+    21300162: pacman sprite sheet_81
+    21300164: pacman sprite sheet_82
+    21300166: pacman sprite sheet_83
+    21300168: pacman sprite sheet_84
+    21300170: pacman sprite sheet_85
+    21300172: pacman sprite sheet_86
+    21300174: pacman sprite sheet_87
+    21300176: pacman sprite sheet_88
+    21300178: pacman sprite sheet_89
+    21300180: pacman sprite sheet_90
+    21300182: pacman sprite sheet_91
+    21300184: pacman sprite sheet_92
+    21300186: pacman sprite sheet_93
+    21300188: pacman sprite sheet_94
+    21300190: pacman sprite sheet_95
+    21300192: pacman sprite sheet_96
+    21300194: pacman sprite sheet_97
+    21300196: pacman sprite sheet_98
+    21300198: pacman sprite sheet_99
+    21300200: pacman sprite sheet_100
+    21300202: pacman sprite sheet_101
+    21300204: pacman sprite sheet_102
+    21300206: pacman sprite sheet_103
+    21300208: pacman sprite sheet_104
+    21300210: pacman sprite sheet_105
+    21300212: pacman sprite sheet_106
+    21300214: pacman sprite sheet_107
+    21300216: pacman sprite sheet_108
+    21300218: pacman sprite sheet_109
+    21300220: pacman sprite sheet_110
+    21300222: pacman sprite sheet_111
+    21300224: pacman sprite sheet_112
+    21300226: pacman sprite sheet_113
+    21300228: pacman sprite sheet_114
+    21300230: pacman sprite sheet_115
+    21300232: pacman sprite sheet_116
+    21300234: pacman sprite sheet_117
+    21300236: pacman sprite sheet_118
+    21300238: pacman sprite sheet_119
+    21300240: pacman sprite sheet_120
+    21300242: pacman sprite sheet_121
+    21300244: pacman sprite sheet_122
+    21300246: pacman sprite sheet_123
+    21300248: pacman sprite sheet_124
+    21300250: pacman sprite sheet_125
+    21300252: pacman sprite sheet_126
+    21300254: pacman sprite sheet_127
+    21300256: pacman sprite sheet_128
+    21300258: pacman sprite sheet_129
+    21300260: pacman sprite sheet_130
+    21300262: pacman sprite sheet_131
+    21300264: pacman sprite sheet_132
+    21300266: pacman sprite sheet_133
+    21300268: pacman sprite sheet_134
+    21300270: pacman sprite sheet_135
+    21300272: pacman sprite sheet_136
+    21300274: pacman sprite sheet_137
+    21300276: pacman sprite sheet_138
+    21300278: pacman sprite sheet_139
+    21300280: pacman sprite sheet_140
+    21300282: pacman sprite sheet_141
+    21300284: pacman sprite sheet_142
+    21300286: pacman sprite sheet_143
+    21300288: pacman sprite sheet_144
+    21300290: pacman sprite sheet_145
+    21300292: pacman sprite sheet_146
+    21300294: pacman sprite sheet_147
+    21300296: pacman sprite sheet_148
+    21300298: pacman sprite sheet_149
+    21300300: pacman sprite sheet_150
+    21300302: pacman sprite sheet_151
+    21300304: pacman sprite sheet_152
+    21300306: pacman sprite sheet_153
+    21300308: pacman sprite sheet_154
+    21300310: pacman sprite sheet_155
+    21300312: pacman sprite sheet_156
+    21300314: pacman sprite sheet_157
+    21300316: pacman sprite sheet_158
+    21300318: pacman sprite sheet_159
+    21300320: pacman sprite sheet_160
+    21300322: pacman sprite sheet_161
+    21300324: pacman sprite sheet_162
+    21300326: pacman sprite sheet_163
+    21300328: pacman sprite sheet_164
+    21300330: pacman sprite sheet_165
+    21300332: pacman sprite sheet_166
+    21300334: pacman sprite sheet_167
+    21300336: pacman sprite sheet_168
+    21300338: pacman sprite sheet_169
+    21300340: pacman sprite sheet_170
+    21300342: pacman sprite sheet_171
+    21300344: pacman sprite sheet_172
+    21300346: pacman sprite sheet_173
+    21300348: pacman sprite sheet_174
+    21300350: pacman sprite sheet_175
+    21300352: pacman sprite sheet_176
+    21300354: pacman sprite sheet_177
+    21300356: pacman sprite sheet_178
+    21300358: pacman sprite sheet_179
+    21300360: pacman sprite sheet_180
+    21300362: pacman sprite sheet_181
+    21300364: pacman sprite sheet_182
+    21300366: pacman sprite sheet_183
+    21300368: pacman sprite sheet_184
+    21300370: pacman sprite sheet_185
+    21300372: pacman sprite sheet_186
+    21300374: pacman sprite sheet_187
+    21300376: pacman sprite sheet_188
+    21300378: pacman sprite sheet_189
+    21300380: pacman sprite sheet_190
+    21300382: pacman sprite sheet_191
+    21300384: pacman sprite sheet_192
+    21300386: pacman sprite sheet_193
+    21300388: pacman sprite sheet_194
+    21300390: pacman sprite sheet_195
+    21300392: pacman sprite sheet_196
+    21300394: pacman sprite sheet_197
+    21300396: pacman sprite sheet_198
+    21300398: pacman sprite sheet_199
+    21300400: pacman sprite sheet_200
+    21300402: pacman sprite sheet_201
+    21300404: pacman sprite sheet_202
+    21300406: pacman sprite sheet_203
+    21300408: pacman sprite sheet_204
+    21300410: pacman sprite sheet_205
+    21300412: pacman sprite sheet_206
+    21300414: pacman sprite sheet_207
+    21300416: pacman sprite sheet_208
+    21300418: pacman sprite sheet_209
+    21300420: pacman sprite sheet_210
+    21300422: pacman sprite sheet_211
+    21300424: pacman sprite sheet_212
+    21300426: pacman sprite sheet_213
+    21300428: pacman sprite sheet_214
+    21300430: pacman sprite sheet_215
+    21300432: pacman sprite sheet_216
+    21300434: pacman sprite sheet_217
+    21300436: pacman sprite sheet_218
+    21300438: pacman sprite sheet_219
+    21300440: pacman sprite sheet_220
+    21300442: pacman sprite sheet_221
+    21300444: pacman sprite sheet_222
+    21300446: pacman sprite sheet_223
+    21300448: pacman sprite sheet_224
+    21300450: pacman sprite sheet_225
+    21300452: pacman sprite sheet_226
+    21300454: pacman sprite sheet_227
+    21300456: pacman sprite sheet_228
+    21300458: pacman sprite sheet_229
+    21300460: pacman sprite sheet_230
+    21300462: pacman sprite sheet_231
+    21300464: pacman sprite sheet_232
+    21300466: pacman sprite sheet_233
+    21300468: pacman sprite sheet_234
+    21300470: pacman sprite sheet_235
+    21300472: pacman sprite sheet_236
+    21300474: pacman sprite sheet_237
+    21300476: pacman sprite sheet_238
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -84,10 +322,3342 @@ TextureImporter:
       name: pacman sprite sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 600
-        height: 600
+        x: 2
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 564
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 585
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 583
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 567
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 564
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 564
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 564
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 564
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 564
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 567
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 564
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 564
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 564
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 567
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 564
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 564
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 548
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 546
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 548
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 546
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 548
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 524
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 527
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 536
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 525
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 539
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 539
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 527
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 525
+        width: 92
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 532
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 532
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 525
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 525
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 525
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 489
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 506
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 510
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 513
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 496
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 496
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 496
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 452
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 485
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 485
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 485
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 485
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 471
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 471
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 471
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 473
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 468
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 412
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 450
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 450
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 450
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_101
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 450
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 450
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 450
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 450
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 449
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 450
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 450
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 450
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 435
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 433
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 431
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 433
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 431
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 431
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 431
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 431
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 431
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 431
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 431
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 431
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 421
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 419
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 417
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 419
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 377
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 377
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 377
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 377
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_141
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 377
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_142
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 377
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 342
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_144
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 351
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_145
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 344
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_146
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 339
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_147
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 339
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_148
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 339
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_149
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 365
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_150
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 318
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_151
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_152
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 342
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_153
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_154
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 304
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_155
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 302
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_156
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 302
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_157
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 302
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_158
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 302
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 302
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_160
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 304
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_161
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 328
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_162
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 309
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_163
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 262
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_164
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 297
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_165
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 290
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_166
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 271
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_168
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 290
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_169
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 288
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 269
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_171
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 283
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 276
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_173
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 276
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_174
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 283
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_175
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 283
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_176
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 278
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_177
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_178
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 269
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_179
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 276
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_180
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 271
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_181
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 267
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_182
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 260
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_183
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 253
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_184
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 229
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_186
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 229
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_187
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 229
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_188
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 229
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_189
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 232
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_190
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 229
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_191
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 234
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_192
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 246
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_193
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 234
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_194
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_195
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 222
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 215
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_197
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 152
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_198
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 208
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_199
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 203
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_200
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 152
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_201
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 196
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_202
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_203
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 185
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_204
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 178
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_205
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 175
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_206
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_207
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_208
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_209
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_210
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_211
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 114
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_212
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 147
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_213
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 133
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_214
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 128
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_215
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_216
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 117
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_217
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_218
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_219
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 75
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_220
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 100
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_221
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 105
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_222
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 77
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_223
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 77
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_224
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 96
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_225
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 67
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_226
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 56
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_227
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 46
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_228
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_229
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 56
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_230
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_231
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_232
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_233
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_234
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_235
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_236
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_237
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pacman sprite sheet_238
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
